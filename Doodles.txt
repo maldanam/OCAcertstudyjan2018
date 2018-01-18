@@ -1,0 +1,10 @@
+General Notes OCA Study Class -- January 2018
+
+Resources:
+ - recording of this class
+ - github: https://github.com/SimonHGR/OCAcertstudyjan2018
+ - Safari (Pearson) OCA Study guide
+ - Oracle Java Magazine (subscribe)
+ - Java Ranch (javaranch.com)
+ - API, Tutorials
+
