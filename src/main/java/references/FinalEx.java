@@ -13,7 +13,7 @@ public class FinalEx {
 //    System.out.println(sb);
 
     final int x = 99;
-    x += 100; // RE-ASSIGNS to the variable x itself (it's NOT a pointer to an object)
+    //x += 100; // RE-ASSIGNS to the variable x itself (it's NOT a pointer to an object)
     System.out.println(x);
   }
 }
