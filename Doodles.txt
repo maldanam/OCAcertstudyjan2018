@@ -1,5 +1,6 @@
 General Notes OCA Study Class -- January 2018
 
+simon@dancingcloudservices.com
 Resources:
  - recording of this class
  - github: https://github.com/SimonHGR/OCAcertstudyjan2018
