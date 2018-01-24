@@ -15,4 +15,5 @@ https://www.safaribooksonline.com/library/view/oca-java-se/9780134427201/
 
  - API, Tutorials. Remember these are key source documents for the folks writing the questions
 
+ - Commercial study material (to which I contributed sample questions) available from Kaplan (among others, Java Ranch maintains a list of resources, including sample question pools)
 
