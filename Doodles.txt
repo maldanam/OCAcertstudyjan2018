@@ -2,11 +2,17 @@ General Notes OCA Study Class -- January 2018
 
 simon@dancingcloudservices.com
 Resources:
- - recording of this class
- - github: https://github.com/SimonHGR/OCAcertstudyjan2018
- - Safari (Pearson) OCA Study guide
+ - recordings of this class
+
+ - github--all the code, diagrams, etc. https://github.com/SimonHGR/OCAcertstudyjan2018
+
+ - Safari (Pearson) OCA Study guide. 19 hours of video addressing all the objectives of the Associate exam
 https://www.safaribooksonline.com/library/view/oca-java-se/9780134427201/
- - Oracle Java Magazine (subscribe)
- - Java Ranch (javaranch.com)
- - API, Tutorials
+
+ - Oracle Java Magazine (be sure to subscribe--free--to get access to current and past issues with my exam questions and discussion column)
+
+ - Java Ranch (javaranch.com) Discussion forum with heavy emphasis on Java certification topics. Many resources and helpful people
+
+ - API, Tutorials. Remember these are key source documents for the folks writing the questions
+
 
